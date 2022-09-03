@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/sswastioyono18/test-release-please/compare/v1.0.0...v1.1.0) (2022-09-03)
+
+
+### Features
+
+* update default branch ([050730c](https://github.com/sswastioyono18/test-release-please/commit/050730c6f1378a76d39da01ac2ed3528853da755))
+
+
+### Bug Fixes
+
+* change release pls ([ba5b34d](https://github.com/sswastioyono18/test-release-please/commit/ba5b34d7c0f70647d130ca5f88b34dfb0e04594c))
+* test release ([e377d8c](https://github.com/sswastioyono18/test-release-please/commit/e377d8cfefc8c33a02b001e8c41353eee919cc34))
+* version ([65f2c40](https://github.com/sswastioyono18/test-release-please/commit/65f2c4011a3c94ce214f479fcfee60b1ba510db6))
+
 ## 1.0.0 (2022-09-03)
 
 
