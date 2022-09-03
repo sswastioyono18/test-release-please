@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/sswastioyono18/test-release-please/compare/v1.2.0...v1.3.0) (2022-09-03)
+
+
+### Features
+
+* modified pr header ([f7cc083](https://github.com/sswastioyono18/test-release-please/commit/f7cc0839acccc140d033723f7db0ed0018a49f61))
+* new branch type ([62d76d5](https://github.com/sswastioyono18/test-release-please/commit/62d76d5b4df93f9f837665095bd0fc96a90333e3))
+
 ## [1.2.0](https://github.com/sswastioyono18/test-release-please/compare/v1.1.1...v1.2.0) (2022-09-03)
 
 
