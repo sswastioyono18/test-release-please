@@ -1,0 +1,15 @@
+name: Build-Push-Deploy Prod
+
+on:
+  release:
+    types: [released]
+
+env:
+  ENV: prod
+
+jobs:
+  build-push-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Log
+        run: echo "Tag created, now deploying to production .."
