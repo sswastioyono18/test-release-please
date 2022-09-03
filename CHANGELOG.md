@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/sswastioyono18/test-release-please/compare/v1.1.0...v1.1.1) (2022-09-03)
+
+
+### Bug Fixes
+
+* test ([0cfd337](https://github.com/sswastioyono18/test-release-please/commit/0cfd337ca328c238db42bf1c0d76f9d4d5b650ef))
+* test something ([f161a86](https://github.com/sswastioyono18/test-release-please/commit/f161a86030d4860c7e27f31bc3d1a03a91d9106b))
+
 ## [1.1.0](https://github.com/sswastioyono18/test-release-please/compare/v1.0.0...v1.1.0) (2022-09-03)
 
 
