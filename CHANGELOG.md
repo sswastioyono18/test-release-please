@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/sswastioyono18/test-release-please/compare/v1.1.1...v1.2.0) (2022-09-03)
+
+
+### Features
+
+* trigger release ([bb65949](https://github.com/sswastioyono18/test-release-please/commit/bb6594993721dc07ce8cc323306e7e3c02b73da1))
+
 ## [1.1.1](https://github.com/sswastioyono18/test-release-please/compare/v1.1.0...v1.1.1) (2022-09-03)
 
 
