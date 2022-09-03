@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/sswastioyono18/test-release-please/compare/v1.3.0...v1.3.1) (2022-09-03)
+
+
+### Bug Fixes
+
+* change title ([20597fb](https://github.com/sswastioyono18/test-release-please/commit/20597fb3d3158ae1837c3979ab8e41efa85c33a5))
+* test ([0ccf5bd](https://github.com/sswastioyono18/test-release-please/commit/0ccf5bdd6d68d6ed74bf192999daa89b0569292e))
+
 ## [1.3.0](https://github.com/sswastioyono18/test-release-please/compare/v1.2.0...v1.3.0) (2022-09-03)
 
 
