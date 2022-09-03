@@ -1,4 +1,6 @@
 {
   ".": "1.3.1",
-  "pull-request-header": "test release"
+  "pull-request-header": {
+    "descrition": "test aja"
+  }
 }
