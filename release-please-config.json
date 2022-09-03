@@ -7,7 +7,6 @@
       "bump-patch-for-minor-pre-major": false,
       "draft": true,
       "prerelease": false,
-      "pull-request-header": "test bbbbbbb"
     }
   }
 }
