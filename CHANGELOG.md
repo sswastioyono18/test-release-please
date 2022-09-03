@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.3](https://github.com/sswastioyono18/test-release-please/compare/v1.3.2...v1.3.3) (2022-09-03)
+
+
+### Bug Fixes
+
+* error ([2a587ca](https://github.com/sswastioyono18/test-release-please/commit/2a587ca2f846f2f4efa04ecc405baee05ea30b7e))
+* error issue ([1e33d24](https://github.com/sswastioyono18/test-release-please/commit/1e33d24fc67e65174c7369f45894979827ddd76c))
+* test ([c38cc55](https://github.com/sswastioyono18/test-release-please/commit/c38cc55c3888598ec15e4be4fce8f9e5e3a0ee06))
+* test ([931d3ad](https://github.com/sswastioyono18/test-release-please/commit/931d3ad72963328c1d9a59dc3869e1d03bb19a9f))
+* test ([cd20d79](https://github.com/sswastioyono18/test-release-please/commit/cd20d79e60ce09bc7055a74bed4b41e3d51cbbe3))
+* test ([72bc133](https://github.com/sswastioyono18/test-release-please/commit/72bc13327dc0a29e222fbb12817d25219e777baf))
+* upda ([fcd75cf](https://github.com/sswastioyono18/test-release-please/commit/fcd75cfb6295b22ae9eb2b12f46cfe75d8cd68a6))
+
 ## [1.3.2](https://github.com/sswastioyono18/test-release-please/compare/v1.3.1...v1.3.2) (2022-09-03)
 
 
