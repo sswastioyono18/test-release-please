@@ -1,6 +1,9 @@
 {
   "prerelease": false,
   "pull-request-header": "This is a pull request header",
+  "draft-pull-request": "true",
+  "labels": "be-autorelease: pending",
+  "release-labels": "be-autorelease: tagged",
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md",
