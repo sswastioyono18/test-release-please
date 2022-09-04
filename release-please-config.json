@@ -8,9 +8,14 @@
     ".": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "go",
+      "package-name": "",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
-      "pull-request-header": "This is a pull request header"
+      "prerelease": false,
+      "pull-request-header": "This is a pull request header",
+      "draft-pull-request": "true",
+      "labels": "be-autorelease: pending",
+      "release-labels": "be-autorelease: tagged"
     }
     }
 }
