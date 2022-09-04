@@ -1,4 +1,5 @@
 {
+  "release-type": "simple",
   "release-label": "custom: tagged",
   "draft-pull-request": true,
   "pull-request-header": "This is a pull request header",
