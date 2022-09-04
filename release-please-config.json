@@ -1,10 +1,11 @@
 {
+  "release-label": "custom: tagged",
+  "draft-pull-request": true,
+  "pull-request-header": "This is a pull request header",
+  "label": "be-autorelease: pending",
   "packages": {
     ".": {
-      "changelog-path": "CHANGELOG.md",
-      "draft-pull-request": true,
-      "label": "be-autorelease: pending",
-      "pull-request-header": "This is a pull request header"
+      "changelog-path": "CHANGELOG.md"
     }
   }
 }
