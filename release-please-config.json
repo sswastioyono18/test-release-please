@@ -3,12 +3,12 @@
     "payment": {
       "release-type": "go",
       "changelog-path": "CHANGELOG.md",
-      "monorepo-tags": "payment"
+      "package-name": "payment/"
     },
     "wallet": {
       "release-type": "go",
       "changelog-path": "CHANGELOG.md",
-      "monorepo-tags": "wallet"
+      "package-name": "wallet/"
     }
   }
 }
