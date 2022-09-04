@@ -6,10 +6,11 @@
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": true,
-      "prerelease": false
+      "prerelease": false,
+      "label": "be-autorelease: pending",
+      "pull-request-header": {
+        "description": "This is a pull request header"
+      }
     }
   },
-  "pull-request-header": {
-    "description": "This is a pull request header"
-  }
 }
