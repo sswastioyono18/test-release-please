@@ -12,3 +12,5 @@ jobs:
           release-type: go
           package-name: release-please-action
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN}}
+          "draft": true
+          "label": "be-autorelease: pending"
