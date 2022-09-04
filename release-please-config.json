@@ -1,7 +1,5 @@
 {
   "prerelease": false,
-  "label": "be-autorelease: pending",
-  "release-labels": "be-autorelease: tagged",
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md",
