@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/sswastioyono18/test-release-please/compare/v1.6.0...v1.6.1) (2022-09-04)
+
+
+### Bug Fixes
+
+* hehe ([0473a74](https://github.com/sswastioyono18/test-release-please/commit/0473a74d5201e6150fcd7265ca272165fe9b8bbd))
+
 ## [1.6.0](https://github.com/sswastioyono18/test-release-please/compare/v1.5.0...v1.6.0) (2022-09-04)
 
 
