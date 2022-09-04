@@ -5,7 +5,7 @@
       "release-type": "go",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
-      "draft": true,
+      "drafts": true,
       "prerelease": false,
       "label": "be-autorelease: pending",
       "pull-request-header": {
