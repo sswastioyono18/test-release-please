@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.3](https://github.com/sswastioyono18/test-release-please/compare/v1.7.2...v1.7.3) (2022-09-04)
+
+
+### Bug Fixes
+
+* test ([199a7e3](https://github.com/sswastioyono18/test-release-please/commit/199a7e3965ae62f32fc66dcf205c95d11d6ddb25))
+* test aja ([a12f039](https://github.com/sswastioyono18/test-release-please/commit/a12f03946b0d21f5089c3dce536b667e217f83a4))
+
 ## [1.7.2](https://github.com/sswastioyono18/test-release-please/compare/v1.7.1...v1.7.2) (2022-09-04)
 
 
