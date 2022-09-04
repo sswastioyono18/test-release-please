@@ -4,14 +4,14 @@
   "release-labels": "be-autorelease: tagged",
   "packages": {
     "payment": {
-      "package-name": "payment",
       "release-type": "go",
-      "changelog-path": "payment/CHANGELOD.md"
+      "changelog-path": "payment/CHANGELOG.md",
+      "monorepo-tags": "payment/"
     },
     "wallet": {
-      "package-name": "wallet",
       "release-type": "go",
-      "changelog-path": "wallet/CHANGELOD.md"
+      "changelog-path": "wallet/CHANGELOG.md",
+      "monorepo-tags": "wallet/"
     }
   }
 }
