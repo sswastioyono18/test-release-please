@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/sswastioyono18/test-release-please/compare/v1.7.3...v1.8.0) (2022-09-04)
+
+
+### Features
+
+* monorepo ([c02a379](https://github.com/sswastioyono18/test-release-please/commit/c02a3792f1b3c70f97d05dcdc9afcabc9c0a1093))
+
 ## [1.7.3](https://github.com/sswastioyono18/test-release-please/compare/v1.7.2...v1.7.3) (2022-09-04)
 
 
