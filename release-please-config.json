@@ -1,4 +1,5 @@
 {
+  "monorepo-tags": true,
   "packages": {
     "payment": {
       "release-type": "go",
