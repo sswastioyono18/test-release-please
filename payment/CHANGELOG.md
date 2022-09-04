@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/sswastioyono18/test-release-please/compare/payment/-v1.3.0...payment/-1.3.1) (2022-09-04)
+
+
+### Bug Fixes
+
+* test ([ea3b183](https://github.com/sswastioyono18/test-release-please/commit/ea3b1839b44f52cf75bbe6e83e39d68fc0d590d6))
+
 ## [1.3.0](https://github.com/sswastioyono18/test-release-please/compare/payment/-v1.2.2...payment/-v1.3.0) (2022-09-04)
 
 
