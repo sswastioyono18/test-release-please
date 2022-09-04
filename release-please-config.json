@@ -1,6 +1,7 @@
 {
   "release-type": "go",
   "pull-request-header": "This is a pull request header",
+  "release-as": "1.6.2",
   "packages": {
     ".": {}
   }
