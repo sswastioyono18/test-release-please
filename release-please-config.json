@@ -2,6 +2,7 @@
   "draft-pull-request": true,
   "prerelease": false,
   "label": "be-autorelease: pending",
+  "release-labels": "be-autorelease: tagged",
   "pull-request-header": "This is a pull request header",
   "packages": {
     ".": {
