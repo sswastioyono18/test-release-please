@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/sswastioyono18/test-release-please/compare/v1.2.0...v1.2.1) (2022-09-04)
+
+
+### Bug Fixes
+
+* monorepo ([51b221c](https://github.com/sswastioyono18/test-release-please/commit/51b221c40fadb0392146891ffa7dd2e28b679a40))
+
 ## [1.2.0](https://github.com/sswastioyono18/test-release-please/compare/v1.1.0...v1.2.0) (2022-09-04)
 
 
