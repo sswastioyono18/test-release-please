@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "payment": {
+      "release-type": "go",
+      "changelog-path": "payment/CHANGELOD.md"
+    },
+    "wallet": {
+      "release-type": "go",
+      "changelog-path": "wallet/CHANGELOD.md"
+    }
+  }
+}
