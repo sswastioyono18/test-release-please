@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.3.3](https://github.com/sswastioyono18/test-release-please/compare/v1.3.2...v1.3.3) (2022-09-04)
+
+
+### Bug Fixes
+
+* akakak ([0a0b194](https://github.com/sswastioyono18/test-release-please/commit/0a0b194b0924fc182d01f1b8e23ec14094019654))
+* error ([2a587ca](https://github.com/sswastioyono18/test-release-please/commit/2a587ca2f846f2f4efa04ecc405baee05ea30b7e))
+* error issue ([1e33d24](https://github.com/sswastioyono18/test-release-please/commit/1e33d24fc67e65174c7369f45894979827ddd76c))
+* salah ([50fbad2](https://github.com/sswastioyono18/test-release-please/commit/50fbad2fcaa5a360966af0e257fb6e72b0889ec8))
+* test ([c38cc55](https://github.com/sswastioyono18/test-release-please/commit/c38cc55c3888598ec15e4be4fce8f9e5e3a0ee06))
+* test ([931d3ad](https://github.com/sswastioyono18/test-release-please/commit/931d3ad72963328c1d9a59dc3869e1d03bb19a9f))
+* test ([cd20d79](https://github.com/sswastioyono18/test-release-please/commit/cd20d79e60ce09bc7055a74bed4b41e3d51cbbe3))
+* test ([72bc133](https://github.com/sswastioyono18/test-release-please/commit/72bc13327dc0a29e222fbb12817d25219e777baf))
+* test aja ([6b90825](https://github.com/sswastioyono18/test-release-please/commit/6b90825c14a2784b02223193adab9bddc12f7ee2))
+* upda ([fcd75cf](https://github.com/sswastioyono18/test-release-please/commit/fcd75cfb6295b22ae9eb2b12f46cfe75d8cd68a6))
+* update test ([f29acee](https://github.com/sswastioyono18/test-release-please/commit/f29acee72d82908d841ee3132c22b22965df43c4))
+
 ## [1.3.3](https://github.com/sswastioyono18/test-release-please/compare/v1.3.2...v1.3.3) (2022-09-03)
 
 
