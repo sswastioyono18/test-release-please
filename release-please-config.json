@@ -1,0 +1,12 @@
+{
+
+  "packages": {
+    ".": {
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "go",
+      "draft-pull-request": true,
+      "pull-request-header": "This is a pull request header",
+      "label": "be-autorelease: pending"
+    }
+  }
+}
