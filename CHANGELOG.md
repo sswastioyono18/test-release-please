@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.6.2](https://github.com/sswastioyono18/test-release-please/compare/v1.6.1...v1.6.2) (2022-09-04)
+
+
+### Bug Fixes
+
+* added config json ([0ad5981](https://github.com/sswastioyono18/test-release-please/commit/0ad59818ce3e8e34ed84637554311be584dd16bd))
+* release ([b804d02](https://github.com/sswastioyono18/test-release-please/commit/b804d02bf87fe66c705e96756b82562fcfd15145))
+* update ([53a0442](https://github.com/sswastioyono18/test-release-please/commit/53a044208880f27ea0a277a39d227624ab2966a3))
+
 ## [1.6.1](https://github.com/sswastioyono18/test-release-please/compare/v1.6.0...v1.6.1) (2022-09-04)
 
 
