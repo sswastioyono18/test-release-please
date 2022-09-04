@@ -12,6 +12,5 @@ jobs:
           release-type: go
           package-name: release-please-action
           draft-pull-request: "true"
-          pull-request-header: "This is a pull request header"
           labels: "be-autorelease: pending"
           release-labels: "be-autorelease: tagged"

@@ -1,5 +1,6 @@
 {
   "prerelease": false,
+  "pull-request-header": "This is a pull request header",
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md",
@@ -8,6 +9,6 @@
       "bump-patch-for-minor-pre-major": false,
       "label": "be-autorelease: pending",
       "release-labels": "be-autorelease: tagged"
-    }
+      }
     }
 }
