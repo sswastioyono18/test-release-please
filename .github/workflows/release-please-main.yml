@@ -9,9 +9,10 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          command: manifest
+          monorepo-tags: true
           release-type: go
           package-name: release-please-action
           draft-pull-request: "true"
           labels: "be-autorelease: pending"
           release-labels: "be-autorelease: tagged"
+          command: manifest

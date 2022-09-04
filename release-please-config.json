@@ -1,17 +1,12 @@
 {
-  "draft-pull-request": "true",
-  "labels": "be-autorelease: pending",
-  "release-labels": "be-autorelease: tagged",
   "packages": {
     "payment": {
       "release-type": "go",
       "changelog-path": "payment/CHANGELOG.md",
-      "monorepo-tags": "payment/"
     },
     "wallet": {
       "release-type": "go",
       "changelog-path": "wallet/CHANGELOG.md",
-      "monorepo-tags": "wallet/"
     }
   }
 }
