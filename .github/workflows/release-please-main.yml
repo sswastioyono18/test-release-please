@@ -12,3 +12,4 @@ jobs:
           command: manifest-pr
           release-type: go
           package-name: release-please-action
+          draft-pull-request: "true"
