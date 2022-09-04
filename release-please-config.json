@@ -1,0 +1,10 @@
+{
+  "packages": {
+    ".": {
+      "changelog-path": "CHANGELOG.md",
+      "draft-pull-request": true,
+      "label": "be-autorelease: pending",
+      "pull-request-header": "This is a pull request header"
+    }
+  }
+}
