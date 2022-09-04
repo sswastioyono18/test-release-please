@@ -9,5 +9,7 @@
       "prerelease": false
     }
   },
-  "pull-request-header": "This is a pull request header"
+  "pull-request-header": {
+    "description": "This is a pull request header"
+  }
 }
