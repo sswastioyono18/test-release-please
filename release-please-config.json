@@ -1,4 +1,7 @@
 {
+  "draft-pull-request": "true",
+  "labels": "be-autorelease: pending",
+  "release-labels": "be-autorelease: tagged",
   "packages": {
     "payment": {
       "package-name": "payment",
