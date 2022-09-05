@@ -1,7 +1,6 @@
 {
   "include-v-in-tag": false,
   "tag-separator": "/",
-  "draft-pull-request": true,
   "packages": {
     "payment": {
       "release-type": "go",
