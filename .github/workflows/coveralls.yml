@@ -1,14 +1,23 @@
 name: Test Coverage
 on:
-  push:
+  pull_request:
 
 jobs:
   test-coverage:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checking out repository
-        uses: actions/checkout@v2
+      - name: Checking current repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          path: current
+
+      - name: Checking base repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          path: base
 
       - name: Setup Go
         uses: actions/setup-go@v2
@@ -23,10 +32,46 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-go-
 
-      - name: Run Unit tests
+      - name: Run Unit tests main
+        id: unit-test-master
         run: |-
-          go test -covermode atomic -coverprofile=covprofile ./...
-      - name: Send coverage
-        uses: shogo82148/actions-goveralls@v1
+          cd base
+          git fetch
+          git checkout main
+          git rev-parse HEAD
+          go mod download
+          go install github.com/jandelgado/gcov2lcov@latest
+          go clean -testcache | go test -covermode atomic -coverprofile=coverage.out ./...
+          gcov2lcov -infile=coverage.out -outfile=coverage.lcov
+          echo "::set-output name=totalcoverage::$(go tool cover -func coverage.out | grep total | awk '{print substr($3, 1, length($3)-1)}')"
+          
+
+      - name: Run Unit tests
+        id: unit-test-current
+        run: |-
+          cd current
+          go install github.com/jandelgado/gcov2lcov@latest
+          go clean -testcache | go test -covermode atomic -coverprofile=coverage.out ./...
+          gcov2lcov -infile=coverage.out -outfile=coverage.lcov
+          echo "::set-output name=totalcoverage::$(go tool cover -func coverage.out | grep total | awk '{print substr($3, 1, length($3)-1)}')"
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v1
         with:
-          path-to-profile: covprofile
+          message: |
+            ##  <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" height="15" /> Unit Test Coverage
+            Current branch coverage : ${{ steps.unit-test-current.outputs.totalcoverage }} 
+            Master branch coverage : ${{steps.unit-test-master.outputs.totalcoverage }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          pr_number: ${{ github.event.pull_request.number }}
+
+      - name: Fail
+        if: steps.unit-test-current.outputs.totalcoverage < steps.unit-test-master.outputs.totalcoverage
+        run: |-
+          echo "::error :: unit test coverage is below master"
+          exit 1
+
+      - name: Coveralls
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path-to-lcov: ./current/coverage.lcov
