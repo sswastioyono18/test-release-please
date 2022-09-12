@@ -75,5 +75,6 @@ jobs:
         env:
           COVERALLS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |-
+          cd current
           GO111MODULE=off go get github.com/mattn/goveralls
-          $(go env GOPATH)/bin/goveralls -coverprofile=current/coverage.out -service=github
+          $(go env GOPATH)/bin/goveralls -coverprofile=coverage.out -service=github
