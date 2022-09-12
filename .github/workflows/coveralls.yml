@@ -70,8 +70,8 @@ jobs:
           echo "::error :: unit test coverage is below master"
           exit 1
 
-      - name: Coveralls
-        uses: coverallsapp/github-action@master
+
+      - name: Send coverage
+        uses: shogo82148/actions-goveralls@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          path-to-lcov: ./current/coverage.lcov
+          path-to-profile: ./current/coverage.out
