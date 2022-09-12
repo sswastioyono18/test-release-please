@@ -57,6 +57,8 @@ jobs:
       - name: Comment PR
         uses: marocchino/sticky-pull-request-comment@v2
         with:
+          recreate: true
+          delete: true
           message: |
             ##  <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" height="15" /> Unit Test Coverage
             ```
