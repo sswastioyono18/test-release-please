@@ -13,4 +13,4 @@ jobs:
           draft-pull-request: "true"
           labels: "be-autorelease: pending"
           release-labels: "be-autorelease: tagged"
-          changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"feature","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
+          changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"feature","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false}]'
