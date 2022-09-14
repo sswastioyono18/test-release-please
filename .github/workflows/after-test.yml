@@ -1,0 +1,17 @@
+name: After Test
+
+on:
+  workflow_run:
+    workflows:
+      - "Test Coverage"
+    types:
+      - completed
+
+jobs:
+  test-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Branch
+        id: check-branch
+        run: |
+          echo "HALO"
