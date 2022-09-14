@@ -1,5 +1,44 @@
 # Changelog
 
+## [1.9.0](https://github.com/sswastioyono18/test-release-please/compare/v1.8.0...v1.9.0) (2022-09-14)
+
+
+### Features
+
+* test ([7d67b69](https://github.com/sswastioyono18/test-release-please/commit/7d67b696ce617ff29ccbf2dba225fcbbeb1e1ed7))
+* test aja ([08eae6b](https://github.com/sswastioyono18/test-release-please/commit/08eae6bc71c7f051e6fb8e535679206e83724100))
+
+
+### Bug Fixes
+
+* again ([ac8e6c3](https://github.com/sswastioyono18/test-release-please/commit/ac8e6c38643ca7627dadcda8f64e0f73e0dbdec1))
+* go mod ([b67267f](https://github.com/sswastioyono18/test-release-please/commit/b67267fc15bd6b5ae10aae691505985a089cd80f))
+* monorepo ([7ed7955](https://github.com/sswastioyono18/test-release-please/commit/7ed7955b74fd079e8f578b37ba3e5d066dc20041))
+* monorepo ([6845bfc](https://github.com/sswastioyono18/test-release-please/commit/6845bfc6670d5478e2c53f277b392833fd1303af))
+* monorepo ([51b221c](https://github.com/sswastioyono18/test-release-please/commit/51b221c40fadb0392146891ffa7dd2e28b679a40))
+* monorepo ([207c4c1](https://github.com/sswastioyono18/test-release-please/commit/207c4c11fad27f3bb0626c0de5ff6000882b9451))
+* monorepo ([3a52a95](https://github.com/sswastioyono18/test-release-please/commit/3a52a952f906a86311eb7be89067c29d33a28660))
+* test ([b466bde](https://github.com/sswastioyono18/test-release-please/commit/b466bdeddf1fc0d1adb2f03755a19d4547e7353c))
+* test ([4dd0b19](https://github.com/sswastioyono18/test-release-please/commit/4dd0b19b93836a5387c049bda58f4b7ccab5bd2b))
+* test ([a0ed635](https://github.com/sswastioyono18/test-release-please/commit/a0ed635385d9f6f55fc32fcd6ab6e45e02c84ff8))
+* test ([8f85138](https://github.com/sswastioyono18/test-release-please/commit/8f8513867aac5043a2a564bfd5b5b6b46184abdb))
+* test ([c8f209d](https://github.com/sswastioyono18/test-release-please/commit/c8f209d5d1d93e31feaa1529915ff36381e160da))
+* test ([2a66eb5](https://github.com/sswastioyono18/test-release-please/commit/2a66eb5caba29a3f85365db7fcbf074258ea174f))
+* test ([7dcf150](https://github.com/sswastioyono18/test-release-please/commit/7dcf15027dde3cfcdf42582a91e19530f20f330d))
+* test ([7efe646](https://github.com/sswastioyono18/test-release-please/commit/7efe646ff24adcaa42e5aad7c231c1adfaba13f6))
+* test ([b2a3966](https://github.com/sswastioyono18/test-release-please/commit/b2a3966b56c3bd7134f30afbd91cd5a482730f71))
+* test ([ea3b183](https://github.com/sswastioyono18/test-release-please/commit/ea3b1839b44f52cf75bbe6e83e39d68fc0d590d6))
+* test ([68f3014](https://github.com/sswastioyono18/test-release-please/commit/68f3014f9c1399c1c652d90db530ee2963fc4ef0))
+* test ([f29c05e](https://github.com/sswastioyono18/test-release-please/commit/f29c05e19387d89bbbe68fdb84209932b37f142f))
+* updated config ([58365b8](https://github.com/sswastioyono18/test-release-please/commit/58365b8c894593153b4f634a7fbc3639de79d09a))
+* wallet ([6ab2c5e](https://github.com/sswastioyono18/test-release-please/commit/6ab2c5eaedb50555f1ebfd17048278aaed07bf3f))
+* wallet ([2c1eb8c](https://github.com/sswastioyono18/test-release-please/commit/2c1eb8c8df239eca54d5be9f45685aa436c39c71))
+
+
+### Infra
+
+* test ([18b9d3f](https://github.com/sswastioyono18/test-release-please/commit/18b9d3f88a196da4315532146e8b0252908569f4))
+
 ## [1.8.0](https://github.com/sswastioyono18/test-release-please/compare/v1.7.3...v1.8.0) (2022-09-04)
 
 
