@@ -4,8 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("This is first commit")
-	fmt.Println("This is first commit")
-	fmt.Println("This is first commit")
+	fmt.Println("123")
 	fmt.Println(add(1, 2))
 }
 
