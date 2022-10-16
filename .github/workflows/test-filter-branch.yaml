@@ -1,8 +1,7 @@
 name: Test Filter Branch
 
 on:
-  pull_request:
-    - opened
+  push:
 
 jobs:
   define-label:
