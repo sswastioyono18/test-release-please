@@ -5,13 +5,19 @@ on:
     - opened
 
 jobs:
-  add-code-review-label:
+  define-label:
     runs-on: ubuntu-latest
     steps:
-      - name: Add label
+      - name: Get branch name
+        id: branch-name
+        uses: tj-actions/branch-names@v6
+
+      - name: Check Release PR or not
+        if: steps.branch-name.outputs.is_default == 'true' && steps.branch-name.outputs.current_branch != 'release-please--branches--main'
         uses: christianvuerings/add-labels@v1
         with:
           labels: |
             be-code-review
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
