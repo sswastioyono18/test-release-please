@@ -2,15 +2,16 @@ name: Test Filter Branch
 
 on:
   pull_request:
-    types: [ready_for_review]
-    branches-ignore:
-      - 'release-please**'
+    - opened
 
 jobs:
-  test-branch:
+  add-code-review-label:
     runs-on: ubuntu-latest
     steps:
-      - name: Check Branch
-        id: check-branch
-        run: |
-          echo "HALO"
+      - name: Add label
+        uses: christianvuerings/add-labels@v1
+        with:
+          labels: |
+            be-code-review
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
