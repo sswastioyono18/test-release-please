@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.3](https://github.com/sswastioyono18/test-release-please/compare/v1.9.2...v1.9.3) (2022-10-16)
+
+
+### Bug Fixes
+
+* test ([6722456](https://github.com/sswastioyono18/test-release-please/commit/672245612bd76aacc1049a751d075d16453212d3))
+
 ## [1.9.2](https://github.com/sswastioyono18/test-release-please/compare/v1.9.1...v1.9.2) (2022-10-16)
 
 
