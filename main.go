@@ -7,7 +7,6 @@ func main() {
 	fmt.Println("123")
 	fmt.Println("123")
 	fmt.Println("123")
-	fmt.Println("asda")
 	fmt.Println(add(1, 2))
 }
 
