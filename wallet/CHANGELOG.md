@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.1](https://github.com/sswastioyono18/test-release-please/compare/wallet/1.4.0...wallet/1.4.1) (2022-11-07)
+
+
+### Bug Fixes
+
+* **go:** added wallet ([b6f4bf2](https://github.com/sswastioyono18/test-release-please/commit/b6f4bf2f5790c35f8aa86f811399c5901aa921f0))
+* **go:** monorepo ([a11a78d](https://github.com/sswastioyono18/test-release-please/commit/a11a78ddf4e4a217cdbd58521c6dee900f674d61))
+* **go:** test ([0d44aef](https://github.com/sswastioyono18/test-release-please/commit/0d44aef61fe544eaf930b8a043a1c2b1b8d59718))
+* test ([e5f4e1f](https://github.com/sswastioyono18/test-release-please/commit/e5f4e1f830eb44c4da01fb436e18d07696993685))
+
 ## [1.4.0](https://github.com/sswastioyono18/test-release-please/compare/wallet-v1.3.0...wallet/1.4.0) (2022-09-04)
 
 
