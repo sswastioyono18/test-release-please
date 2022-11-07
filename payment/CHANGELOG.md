@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.2](https://github.com/sswastioyono18/test-release-please/compare/payment/1.5.1...payment/v1.5.2) (2022-11-07)
+
+
+### Bug Fixes
+
+* **wf:** updated workflow ([a2cd1e2](https://github.com/sswastioyono18/test-release-please/commit/a2cd1e27b34e77c710bb02bddc96d5936188297d))
+
 ## [1.5.1](https://github.com/sswastioyono18/test-release-please/compare/payment/1.5.0...payment/1.5.1) (2022-11-07)
 
 
