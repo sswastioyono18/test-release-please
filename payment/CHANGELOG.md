@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.4](https://github.com/sswastioyono18/test-release-please/compare/payment/1.4.3...payment/1.4.4) (2022-11-07)
+
+
+### Bug Fixes
+
+* **go:** monorepo ([a11a78d](https://github.com/sswastioyono18/test-release-please/commit/a11a78ddf4e4a217cdbd58521c6dee900f674d61))
+* **test:** test aja ([6ad3d4f](https://github.com/sswastioyono18/test-release-please/commit/6ad3d4fa82b0091348a08608d412ba79d5db183b))
+
 ## [1.4.3](https://github.com/sswastioyono18/test-release-please/compare/payment/1.4.2...payment/1.4.3) (2022-09-14)
 
 
