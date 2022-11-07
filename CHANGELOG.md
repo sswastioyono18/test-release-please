@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.6](https://github.com/sswastioyono18/test-release-please/compare/v1.9.5...v1.9.6) (2022-11-07)
+
+
+### Bug Fixes
+
+* **go:** test ([0d44aef](https://github.com/sswastioyono18/test-release-please/commit/0d44aef61fe544eaf930b8a043a1c2b1b8d59718))
+
 ## [1.9.5](https://github.com/sswastioyono18/test-release-please/compare/v1.9.4...v1.9.5) (2022-11-07)
 
 
