@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/sswastioyono18/test-release-please/compare/wallet/1.5.0...wallet/1.5.1) (2022-11-07)
+
+
+### Bug Fixes
+
+* **wallet:** update ([4b9a4d1](https://github.com/sswastioyono18/test-release-please/commit/4b9a4d13e5c3d0dcf3611a39aa75ffc03c079a68))
+
 ## [1.5.0](https://github.com/sswastioyono18/test-release-please/compare/wallet-v1.4.1...wallet/1.5.0) (2022-11-07)
 
 
