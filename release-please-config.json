@@ -1,19 +1,16 @@
 {
-  "include-v-in-tag": true,
+  "include-v-in-tag": false,
   "tag-separator": "/",
-  "draft-pull-request": false,
   "packages": {
     "payment": {
       "release-type": "go",
       "changelog-path": "CHANGELOG.md",
-      "package-name": "payment",
-      "monorepo-tags": "payment/"
+      "package-name": "payment"
     },
     "wallet": {
       "release-type": "go",
       "changelog-path": "CHANGELOG.md",
-      "package-name": "wallet",
-      "monorepo-tags": "wallet/"
+      "package-name": "wallet"
     }
   }
 }
