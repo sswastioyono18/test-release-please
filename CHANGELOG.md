@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.4](https://github.com/sswastioyono18/test-release-please/compare/v1.9.3...v1.9.4) (2022-11-07)
+
+
+### Bug Fixes
+
+* **go:** monorepo ([a11a78d](https://github.com/sswastioyono18/test-release-please/commit/a11a78ddf4e4a217cdbd58521c6dee900f674d61))
+* **test:** test aja ([6ad3d4f](https://github.com/sswastioyono18/test-release-please/commit/6ad3d4fa82b0091348a08608d412ba79d5db183b))
+
 ## [1.9.3](https://github.com/sswastioyono18/test-release-please/compare/v1.9.2...v1.9.3) (2022-10-16)
 
 
