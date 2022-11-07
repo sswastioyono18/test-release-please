@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.10.0](https://github.com/sswastioyono18/test-release-please/compare/v1.9.6...v1.10.0) (2022-11-07)
+
+
+### Features
+
+* **go:** workflow monorepo ([63c0f5b](https://github.com/sswastioyono18/test-release-please/commit/63c0f5b720a8690a0a2e7e76beece817f6c35830))
+
+
+### Bug Fixes
+
+* test ([e5f4e1f](https://github.com/sswastioyono18/test-release-please/commit/e5f4e1f830eb44c4da01fb436e18d07696993685))
+
 ## [1.9.6](https://github.com/sswastioyono18/test-release-please/compare/v1.9.5...v1.9.6) (2022-11-07)
 
 
