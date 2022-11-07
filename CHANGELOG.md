@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.5](https://github.com/sswastioyono18/test-release-please/compare/v1.9.4...v1.9.5) (2022-11-07)
+
+
+### Bug Fixes
+
+* **go:** added wallet ([b6f4bf2](https://github.com/sswastioyono18/test-release-please/commit/b6f4bf2f5790c35f8aa86f811399c5901aa921f0))
+
 ## [1.9.4](https://github.com/sswastioyono18/test-release-please/compare/v1.9.3...v1.9.4) (2022-11-07)
 
 
